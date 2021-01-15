@@ -1,0 +1,41 @@
+a{
+    color: #f1f0f1;
+    text-decoration: none; /*retirando o underline*/
+    padding: 5px;
+}
+
+.corpo{
+    /*background: #FBDCEB url("imagens-emg/marcadagua.jpeg") no-repeat center top fixed;
+    background-image: url("imagens-emg/marcadagua.jpeg");
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-attachment: fixed;*/
+    background: #a8a5a85e;
+    background-image: url("imagens-cali/marcadagua.png");
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-attachment: scroll;
+    /*opacity:.50;*/
+
+}
+
+
+html, body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+#menu{
+    background: #777677;
+    border: 1px solid #0d0d0e07;
+    padding: 18px; /*Espaçamento interno*/
+    text-align: center;
+    font: 16px Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+#principal{
+    width: auto;
+}
