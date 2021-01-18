@@ -23,7 +23,7 @@ $body = $body . "===================================" . "\n";
 mail($destinatario, $assunto , $body, "From: $email\r\n");
 
 // redireciona para a página de obrigado
-header("location:obrigado.html");
+header("location:obrigado.htm");
 
 
 ?>
